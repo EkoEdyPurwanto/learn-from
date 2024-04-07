@@ -11,6 +11,8 @@ var (
 	i = "value i\n"
 )
 
+var J = "value J"
+
 func main() {
 	/* macam-macam deklarasi variable di go */
 
